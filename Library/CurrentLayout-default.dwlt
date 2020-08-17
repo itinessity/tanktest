@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 75112
+  controlID: 131
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 75117
+  controlID: 132
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 75118
+  controlID: 133
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 0
     width: 582
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -396,9 +396,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7a8cf9ff
-      m_LastClickedID: -422790
-      m_ExpandedIDs: 7a8cf9ffe290f9fffeabf9ff9eaef9ff78b8f9ff3ebaf9ffaabbf9ffb8dbf9ffd4dcf9ff00e0f9ff3200faffc613faff7614faff708dfaff348efaff2e29fcff72adfdffacb7fdffc6bdfdffdabdfdffac75feff420effff540effff0626ffff467effff045b00001c5b0000027c00008c7c000084480100026e0100
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 96f3ffffb2f3ffffe4f4ffffe8f4ffff0cf6ffff28f6ffffb8f6ffffbcf6ffffc6f7ffffe2f7ffff14f9ffff18f9ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -510,9 +510,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.19513534, y: 0.65318125, z: -0.17971835, w: -0.7092092}
   m_Size:
-    m_Target: 363.5355
+    m_Target: 453.03134
     speed: 2
-    m_Value: 363.5355
+    m_Value: 433.52283
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -700,20 +700,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\TankTest
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b65c0000
-    m_LastClickedID: 23734
-    m_ExpandedIDs: 00000000b65c0000b85c0000ba5c0000c05c0000cc5c0000ce5c0000285d0000305d000000ca9a3b
+    scrollPos: {x: 0, y: 248}
+    m_SelectedIDs: 50390000
+    m_LastClickedID: 14672
+    m_ExpandedIDs: 00000000ba380000bc380000be380000c0380000c2380000c4380000c6380000c838000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -741,7 +741,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b65c0000b85c0000ba5c0000c05c0000cc5c0000ce5c0000285d0000305d000000ca9a3b
+    m_ExpandedIDs: 00000000ba380000bc380000be380000c0380000c2380000c4380000c6380000c8380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
