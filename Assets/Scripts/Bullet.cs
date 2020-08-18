@@ -11,12 +11,15 @@ public class Bullet : MonoBehaviour
         player = FindObjectOfType<Player>();
     }
 
-        void OnTriggerEnter(Collider coll)
-	{
-       if (coll !=  null && coll.GetComponent<Enemy>() != null)
+    void OnTriggerEnter(Collider coll)
+    {
+        if (coll != null && coll.GetComponent<Player>() == null)
+        {
+            if (coll.GetComponent<Enemy>() != null)
                 coll.transform.GetComponent<Enemy>().Hit(player.GetDamage());
 
-        Destroy(gameObject);
+            Destroy(gameObject);
+        }
 	}
 
     private void OnCollisionEnter(Collision collision)
